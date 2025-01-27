@@ -1,0 +1,9 @@
+File Creating using java
+
+{
+ File file = new File("path");
+ file.createNewFile();
+}
+
+
+Name:Narasimha
